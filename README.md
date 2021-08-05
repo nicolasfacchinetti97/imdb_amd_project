@@ -1,2 +1,3 @@
 # imdb_amd_project
 Project for the exam of Algorithms for Massive Datasets A.A. 2020/21
+Students: Belotti Antonio, Facchinetti Nicolas
